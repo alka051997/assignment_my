@@ -41,7 +41,7 @@
 
                     <!--Form with header-->
 
-                    <form action="mail.php" method="post">
+                    <form action="mail.php" method="post" class="m_form">
                         <div class="card border-primary rounded-0">
                             <div class="card-header p-0">
                                 <div class="btn-info text-white text-center py-2">
